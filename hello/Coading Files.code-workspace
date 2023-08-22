@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "../../Coading Files"
+		},
+		{
+			"path": "../../WEB DEV/WEB-Learning"
+		},
+		{
+			"path": "../../DSA-C-Language"
+		},
+		{
+			"path": "../../Java/Java-coading-files"
+		},
+		{
+			"path": "../../Codes of contests and platforms/CodeForces-Files"
+		},
+		{
+			"path": "../../GIT_HUB/MyCodingProfiles"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"iosfwd": "cpp",
+			"cmath": "cpp",
+			"cstdlib": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "WEB-Learning"
+	}
+}
