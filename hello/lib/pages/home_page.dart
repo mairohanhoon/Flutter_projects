@@ -8,7 +8,7 @@ class HomePage extends StatelessWidget {
     final days = 10;
     final name = "Rohan Tiwari";
     return Scaffold(
-      appBar: AppBar(backgroundColor: Color.fromRGBO(1, 1, 1, 1),
+      appBar: AppBar(
       title: Text("Hello App"),
       ),
       body: Center(
